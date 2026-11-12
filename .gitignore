@@ -224,3 +224,6 @@ raw_text.txt
 # DuckDB
 *.duckdb
 *.duckdb.wal
+
+lancedb/data/
+*.lance
